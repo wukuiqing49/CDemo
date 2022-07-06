@@ -20,7 +20,7 @@ android {
             cmake {
                 cppFlags ""
                 // 过滤生成的库类型
-//                abiFilters 'armeabi-v7a'
+//                abiFilters 'arm64-v8a'
                 //  库格式'armeabi-v7a', 'arm64-v8a', 'x86', 'x86_64'
             }
 //            ndk {
